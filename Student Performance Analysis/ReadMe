@@ -1,0 +1,27 @@
+# Student Performance Analysis — Databricks SQL + Tableau
+
+## Overview
+This project demonstrates data cleaning, transformation, and visualization using **Databricks SQL** and **Tableau**.  
+The goal is to explore how factors like **gender**, **race/ethnicity**, and **test preparation** affect student performance.
+
+## Dataset
+- Source: [Kaggle - Students Performance](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+- Size: ~1k rows, 8 columns
+
+## Process
+1. **Loaded** dataset into Databricks
+2. **Cleaned & transformed** data using SQL
+3. **Exported** refined dataset
+4. **Built Tableau dashboard** with insights:
+   - Average score by gender
+   - Impact of test prep
+   - Top race/ethnicity performance
+   - Score distribution
+
+## Files
+- `/notebooks` → Databricks SQL scripts
+- `/dashboard` → Tableau screenshots
+- `/data` → Raw & cleaned CSVs
+
+## Dashboard Preview
+![Dashboard Screenshot](dashboard/tableau_dashboard_screenshot.png)
