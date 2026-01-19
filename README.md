@@ -25,9 +25,3 @@ Product Line Performance: Evaluating the performance of various product lines ac
 
 Customer and Geographic Analysis: Assessing customer demographics and geographical trends influencing automobile sales.
 
-Potential Sales Forecasting: Utilizing historical sales data and identified trends to develop potential sales forecasts, aiding in strategic planning and decision-making for future sales initiatives.
-
-## PAYMENT CARD FRAUD DETECTION
-
-
-## STUDENT STRESS MONITORING
