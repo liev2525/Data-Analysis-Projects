@@ -6,8 +6,8 @@ For these projects, I start by conducting most of my analysis using Databricks, 
 
 These projects reflect my skills in handling diverse datasets and extracting meaningful conclusions to support decision-making. Feel free to check them out and reach out for any questions or feedback.
 
-## SALARIES ANALYSIS
+## [SALARIES ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
 
-## AMAZON SALES ANALYSIS
+## [AMAZON SALES ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Amazon%20Sales%20Dataset)
 
-## CAVE LLC SHIPPERS
+## [CAVE LLC SHIPPERS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
