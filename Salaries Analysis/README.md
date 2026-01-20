@@ -12,7 +12,7 @@
 - [Results](##Results)
 
 ## Overview
-Dataset Source: link[https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset]
+Dataset Source: [Kaggle Data Science Job Salaries EDA](https://www.kaggle.com/code/varunsaikanuri/data-science-job-salaries-eda/input)
 Analysis of real-world salary information using Databricks SQL for cleaning and standardization and Tableau for visualizations. 
 
 ### Description:
