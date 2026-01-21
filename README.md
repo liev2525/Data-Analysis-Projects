@@ -7,7 +7,16 @@ For these projects, I start by conducting most of my analysis using various envi
 These projects reflect my skills in handling diverse datasets and extracting meaningful conclusions to support decision-making. Feel free to check them out and reach out for any questions or feedback.
 
 ## [SALARIES ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
+- Brief overview: 
+- Technology used: 
+- Final results: 
 
 ## [AMAZON SALES ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Amazon%20Sales%20Dataset)
+- Brief overview: 
+- Technology used: 
+- Final results: 
 
 ## [CAVE LLC SHIPPERS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
+- Brief overview: 
+- Technology used: 
+- Final results: 
