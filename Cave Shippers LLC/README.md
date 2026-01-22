@@ -96,3 +96,5 @@ Based on the sales and statistical findings, the business should prioritize high
   
 ## Dashboard
 [Salary Dashboard](https://sites.google.com/view/cavellcshippers/data-analysis)
+[10-Yr Sales Forecast Dashboard](https://public.tableau.com/views/CaveLLCForecastAnalysis/10YrForecastDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Z-score Dashboard](https://public.tableau.com/views/CaveLLCZScoreAnalysis/ZscoreDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
