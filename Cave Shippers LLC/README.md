@@ -49,9 +49,8 @@ To build a Tableau dashboard having visualizations driven by MySQL queries to hi
 During exploratory analysis, I assessed sales volume, revenue performance, and shipment characteristics to identify key trends and anomalies across material types and time periods. Results showed that Steel and Tungsten were among the strongest-performing materials, while Polyethylene consistently ranked as the lowest-selling material type. Overall, average sales across material types were approximately $600M, indicating stable baseline demand across most categories. Sales performance also revealed that higher revenue was sometimes generated from fewer transactions, suggesting certain premium products yield greater returns. Weight-based trends indicated most shipments fell under 1,000 lbs, with a small number of outliers requiring further review. Quarterly distribution analysis showed greater variability and outliers in Q3, while order frequency revealed a notable anomaly tied to a high-performing order, potentially influenced by seasonal purchasing patterns.
 
 ## Visualization Highlights
-- [Link1](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fcavellcshippers%2Fdata-analysis&sa=D&sntz=1&usg=AOvVaw2qzA48tiEnjxde1tIV2gtk)
-- [Link2](https://public.tableau.com/app/profile/elizabeth.elizondo/vizzes)
-- ![Project Screenshot](<img width="1234" height="823" alt="SalesDashboard 2026-01-22 115018" src="https://github.com/user-attachments/assets/e7b710ea-ec75-47f3-8b1e-950420e17635"/>)
+- [Google Analysis Visualizations](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fcavellcshippers%2Fdata-analysis&sa=D&sntz=1&usg=AOvVaw2qzA48tiEnjxde1tIV2gtk)
+- [Tableau Visualizations](https://public.tableau.com/app/profile/elizabeth.elizondo/vizzes)
 
 
 ## Dataset Quality Assessment
