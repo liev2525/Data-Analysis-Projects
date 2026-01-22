@@ -11,55 +11,89 @@
 - [Results](##Results)
 
 ## Overview
-Dataset Source: [Kaggle Data Science Job Salaries EDA](https://www.kaggle.com/code/varunsaikanuri/data-science-job-salaries-eda/input)
+Dataset Source: Derived
 
 ### Description:
 
-The table contains data on employee salaries, including details such as work year, experience level, employment type, job title, and salary in USD. It also includes information about employee and company locations, remote work ratios, and company size. This data can be used for salary benchmarking, analyzing compensation trends across different roles and locations, and understanding the impact of remote work on salaries.
+This dataset and analysis were completed as part of a graduate-level capstone project for the master’s program in Information Science 2023. In collaboration with a cohort, I helped to develop a mock company—Cave Shippers LLC—where my responsibility was to conduct an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various material types. 
+Through this assessment, I delivered insights and reporting to support key business questions, including:
+Developing an interactive dashboard to evaluate quarterly sales trends and units sold
+Performing a 10-year sales forecast to estimate long-term performance
+Conducting statistical analysis to assess material type performance, order frequency, and customer-level sales behavior
 
 ## Methodology
-The file 'salaries.csv' was read into Databricks as a delta table using SQL where it was analyzed for its metadata
+Created a mock dataset from a similarly aligned company of shipment data, and assess the dataset’s size and metadata to understand its structure and determine the appropriate handling approach based on each field’s attributes. 
 
 ## Task
-Amazon is a global leader in e-commerce, offering a wide range of products and services worldwide. 
-This dataset includes product details and real customer reviews, allowing analysts to explore market trends, consumer behavior, and key sales insights.
+To build a Tableau dashboard having visualizations driven by MySQL queries to highlight key trends in work type, remote ratio, and salary by work year. 
 
 ## Dataset Features
-- work_year: year in which the salary data was recorded
-- experience_level: level of experience of the employee
-- employment_type: nature of the employment
-- job_title: title of the job held by the employee
-- salary: annual salary of the employee 
-- salary_currency: currency in which the salary is paid
-- salary_in_usd:  annual salary of the employee expressed in US dollars
-- employee_residence:  location where the employee resides
-- remote_ratio: percentage of time the employee works remotely
-- company_location: geographical location of the company
-- company_size: size of the company
+- carrier: carrier type
+- customer: customer number
+- desitnation_port: locations of where shipping contents were sent
+- material_type: types of material which made up shipping container
+- order_date: date of order
+- order_id: id belonging to individual order
+- origin_port: location where shipper container derived from
+- plant_code:  code used for plant of origin manufactured
+- product_id:  id for product type
+- sales: company sales
+- service_level: type of delivery to customer
+- ship_ahead_day_count: days shipped early
+- ship_late_day_count: days product was shipped late
+- weight: weight of shipping container prior to contents added
+- retail: cost of shipping container to customer
+- unit_quantity: quantity of units sold
 
 ## Exploratory Analysis
-Preliminary analysis was completed to investigate the dataset and better understand the main characterisitics. This analysis revealed there are 145k rows and 11 columns having only bigint and string datatypes. There are 416 distinct job titles and 97 distinct locations with no missing or null values. The top 5 job roles which appeared with the most frequency were: Data Scientist, Software Engineer, Data Engineer, Data Analyst and Engineer making up 51% of the total. The average salary fell between $157548 and median at $146542 with a min and max salary ranged between 1500 to 800000 USD between roles having either full-time, part-time, or contract and level of entry, mid, senior, or executive.
+During exploratory analysis, I assessed sales volume, revenue performance, and shipment characteristics to identify key trends and anomalies across material types and time periods. Results showed that Steel and Tungsten were among the strongest-performing materials, while Polyethylene consistently ranked as the lowest-selling material type. Overall, average sales across material types were approximately $600M, indicating stable baseline demand across most categories. Sales performance also revealed that higher revenue was sometimes generated from fewer transactions, suggesting certain premium products yield greater returns. Weight-based trends indicated most shipments fell under 1,000 lbs, with a small number of outliers requiring further review. Quarterly distribution analysis showed greater variability and outliers in Q3, while order frequency revealed a notable anomaly tied to a high-performing order, potentially influenced by seasonal purchasing patterns.
 
 ## Visualization Highlights
+- [Link1](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fcavellcshippers%2Fdata-analysis&sa=D&sntz=1&usg=AOvVaw2qzA48tiEnjxde1tIV2gtk)
+- [Link2](https://public.tableau.com/app/profile/elizabeth.elizondo/vizzes)
+- ![Project Screenshot](<img width="1234" height="823" alt="SalesDashboard 2026-01-22 115018" src="https://github.com/user-attachments/assets/e7b710ea-ec75-47f3-8b1e-950420e17635"/>)
+
 
 ## Dataset Quality Assessment
-#### Data Validity: Validated salary values, year ranges, and remote work ratios to ensure accuracy and remove invalid records prior to analysis.
-#### Data Accessibility: Dataset available via Kaggle / public source and imported into Databricks.
-#### Data Completeness: Assessed null distributions across key attributes (salary, job_title, experience_level, location) and addressed gaps through filtering, imputation, and “Unknown” classification where appropriate.
-#### Data Consistency: Standardized categories and naming conventions (job titles, experience levels, employment types) to ensure consistent grouping and reliable comparative analysis across segments.
-#### Data Size: Dataset contained approximately 145414 rows and 11 columns, supporting exploratory analysis, KPI creation, and segmented reporting without performance limitations.
+#### Data Validity: Data was modified to ensure it met the required validity to accomodate the scope of the project.
+#### Data Accessibility: Dataset was derived as mock data and imported into MySQL for analysis.
+#### Data Completeness: Addressed gaps through filtering, imputation and insertion to modify data for completeness where appropriate.
+#### Data Consistency: Standardized categories and naming conventions to ensure consistent grouping and reliable comparative analysis across segments.
+#### Data Size: 6971 rows and 16 columns of data.
 
 ## Results and Conclusion
-My analysis of the dataset revealed several strong compensation patterns across roles, experience levels, employment types, and geography. Machine Learning (ML) and Artificial Intelligence (AI) roles consistently showed salaries that were highly competitive, often matching (and in some cases rivaling) compensation levels typically associated with Engineer, Manager, and Executive positions.
-When comparing employment arrangements, experienced professionals working in Full-Time and Contract roles earned noticeably higher salaries than those providing Freelance services, indicating stronger earning potential in more structured employment types.
-Experience level also played a major role in compensation. Senior-level professionals had the highest salary ratio overall, followed closely by Mid-level roles. Entry-level and Executive-level roles showed similar ratios, although the salary gap between those two levels was the largest, highlighting the sharp difference in pay at the top end of leadership roles.
-From a geographic standpoint, the United States ranked highest in salary by role, with Canada emerging as the second-highest-paying location, showing strong earning potential outside the U.S. market as well.
-Lastly, remote work trends showed that remote roles represented only about 38% compared to on-site positions, suggesting that the majority of opportunities in this dataset still lean toward on-site work.
+#### Sales Insights:
+- Sales lows 9,181,000 with 37 count of sales, versus 9,181,000 with only 24 count of
+sales made 10,296,000 - This indicates less sales generated a higher yield return value
+for a specific product that may have cost more to the consumer.
+- Sales high was 1,685 count of sales ylelded $357,770,750 compared to its 2nd highest
+sales count at 1,054 returning sales dollar amount of $25,144,000.
+- Sales by weight appear to be approximately under 1000 lbs. However a couple of
+outliers are present.
+- Unit quantity trend positive along with sales increasing
+- Unit quantity have an even spread up to 200 range, despite weight fluctuations under
+1000 lbs.
+#### Statistical Insights:
+- Q1: The interquartile range (IQR) allows is positively skewed, does contain some
+outliers however data is less dispersed to due starting sales frequency at a low.
+- Q2: IQR has normal distribution with a few outliers which have wider dispersion
+with a greater increase in sales.
+- Q3: IQR is positively skewed similar Q1 with the most outliers, an indicator that
+sales are more inconsistent this quarter.
+- Q4: Data points only pinpointing few sales data generated for Q4
+Insights:
+- All shipper material types fall less than or near -0.5 whereas Steel falls slightly over 2.2
+which indicates that it an outlier with steel as it is the material most sold out of all
+categories
+- Order date frequency was observed for its z-score and it was determined that quarter
+Contains an anomaly at 4.027 for order no. 1447371268 which indicates a greater
+frequency sold than normal, this could be attributed to the approaching holiday season
+and needs further investigation.
+- Sales by customer were all consistent within the +3 z-score permissible limitation.
+
 
 ## Recommendations
-- Identify roles/levels with below-market salaries and prioritize compensation corrections to reduce attrition risk.
-- Track salary movement by year and refresh compensation benchmarks annually to stay aligned with market trends.
-- Develop a defined career ladder with salary ranges per level to improve transparency, reduce pay bias, and strengthen employee growth pathways.
+Based on the sales and statistical findings, the business should prioritize high-yield product categories, particularly those generating stronger revenue with fewer transactions, and further investigate top-performing spikes (e.g., unusually high-frequency orders tied to seasonal demand). Given that most sales are concentrated under 1,000 lbs with few outliers, inventory and shipping strategies should be optimized around standard weight ranges while flagging exceptions for special handling. Additionally, since steel is a major sales outlier, the company should strengthen supplier planning and pricing strategy for steel-related materials to reduce stock risk and capitalize on its demand. Finally, because Q3 shows the highest inconsistency and most outliers, leadership should implement closer quarterly monitoring and forecasting adjustments to stabilize performance and improve planning accuracy.
   
 ## Dashboard
-[Salary Dashboard](https://public.tableau.com/app/profile/elizabeth.elizondo/viz/JobTitle_Salary_v2025_2/Dashboard1)
+[Salary Dashboard](https://sites.google.com/view/cavellcshippers/data-analysis)
