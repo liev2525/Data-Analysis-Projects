@@ -11,7 +11,7 @@
 - [Results](##Results)
 
 ## Overview
-Dataset Source: Derived
+Dataset Source: [Supply Chain Shipment Pricing Data](https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data?resource=download) and [Supply Chain Data](https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data)
 
 ### Description:
 
@@ -22,7 +22,7 @@ Performing a 10-year sales forecast to estimate long-term performance
 Conducting statistical analysis to assess material type performance, order frequency, and customer-level sales behavior
 
 ## Methodology
-Created a mock dataset from a similarly aligned company of shipment data, and assess the dataset’s size and metadata to understand its structure and determine the appropriate handling approach based on each field’s attributes. 
+Created a mock dataset from a similarly aligned company of shipment data and assess the dataset’s size and metadata to understand its structure and determine the appropriate handling approach based on each field’s attributes. 
 
 ## Task
 To build a Tableau dashboard having visualizations driven by MySQL queries to highlight key trends in work type, remote ratio, and salary by work year. 
