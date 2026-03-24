@@ -1,4 +1,3 @@
-# DATA ANALYSIS PORTFOLIO
 
 Hello, and thanks for stopping by! This repository contains personal data analysis projects that I have done utilizing Python, PySpark, SQL, Spark SQL, Excel and Tableau. Below are some of my highlighted projects, including data visualization, statistical analysis, and data-driven insights.
 
