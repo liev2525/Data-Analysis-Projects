@@ -47,6 +47,8 @@ The table contains data on employee salaries, including details such as work yea
 - Bronze Layer: Raw ingestion (original dataset)
 - Silver Layer: Cleaned and standardized data
 - Gold Layer: Aggregated metrics for reporting
+
+![Flow Diagram](MinorProjects/MPDataAnalysis/HotelBookingsAnalysis/images/FlowDiagramDark.png)
   
 ### 📊 Deliverables
 - Clean, validated dataset (analysis-ready)
