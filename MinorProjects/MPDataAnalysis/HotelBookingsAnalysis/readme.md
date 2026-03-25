@@ -1,5 +1,9 @@
 # Hotel Analytics Dashboard – BRD + KPI Reporting Implementation
 
+## 🛠 Tools Used
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
+
+
 ## Table of Contents
 - [Overview](##Overview)
 - [Business Context](##BusinessContext)
