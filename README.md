@@ -16,4 +16,4 @@
   - Enables faster, data-driven decision-making
   - Improves visibility into revenue and booking performance
   - Provides a scalable foundation for future analytics enhancements
-<img width="1647" height="875" alt="Dashboard" src="https://github.com/user-attachments/assets/7610bfd4-b954-426d-b45f-93449643d376" />
+
