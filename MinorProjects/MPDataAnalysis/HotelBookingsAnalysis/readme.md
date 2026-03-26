@@ -3,6 +3,7 @@
 ## 🛠 Tools Used
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
 
+<img width="1647" height="875" alt="Dashboard" src="https://github.com/user-attachments/assets/32cbff1b-ec6b-4a74-abb0-279d526d3df0" />
 
 ## Table of Contents
 - [Overview](###Overview)
@@ -69,6 +70,8 @@ The table contains data on employee salaries, including details such as work yea
 - Confirmed dashboard accuracy with sample scenarios
 
 ### 📸 Screenshots
+Flow Diagram
+<img width="782" height="351" alt="FlowDiagramDark" src="https://github.com/user-attachments/assets/ae4a452a-2388-4279-ada0-29cbbb9189a9" />
 
 
 ### 🚀 Business Impact
