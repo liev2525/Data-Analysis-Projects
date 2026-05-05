@@ -1,3 +1,30 @@
+# 📊 Data Analysis Portfolio
+
+Welcome to my Data Analysis project repository.
+
+I am a Data Engineer with strong experience in business systems analysis, specializing in transforming raw data into meaningful insights that support business and regulatory decision-making.
+
+This repository showcases projects focused on:
+- Exploratory Data Analysis (EDA)
+- Data visualization and dashboards
+- KPI development and business insights
+- SQL-based analytics and reporting
+
+🔗 **About Me**
+Learn more about my experience, certifications, and background:
+👉 https://liev2525.github.io/Elizondo_Portofolio_Page/
+
+💼 Background:
+- Data Engineer II (Business Systems Analyst focus)
+- Experience in financial/regulatory systems (AML/KYC, reporting)
+- Tools: SQL, Python, Tableau, Power BI, Databricks
+
+📁 Each project includes:
+- Business problem definition
+- Dataset overview
+- Data cleaning & transformation steps
+- Visual insights & key findings
+- Business recommendations
 
 ## [SALARIES ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
 - Brief overview: Examine how compensation varies by job title, experience level, company size, and location to uncover trends, pay gaps, and high-earning roles
