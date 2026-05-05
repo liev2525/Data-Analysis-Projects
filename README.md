@@ -4,7 +4,7 @@
 - Technology used: SQL, Databricks, Tableau
 - Final results: [Salary Analysis results](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
 
-## [CAVE LLC SHIPPERS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
+## [CAVE SHIPPERS LLC ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
 - Brief overview: Conducted an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various materials
 - Technology used: MySQL, RStudio, Tableau
 - Final results: [Cave Shippers Analysis results](https://www.elizabethelizondo.net/portfolio-brief/cave-shippersllc)
