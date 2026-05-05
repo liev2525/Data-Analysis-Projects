@@ -11,8 +11,8 @@ This repository showcases projects focused on:
 - SQL-based analytics and reporting
 
 🔗 **About Me**
-Learn more about my experience, certifications, and background:
-👉 https://liev2525.github.io/Elizondo_Portofolio_Page/
+#### [👉 Explore my full background, work history, and certifications](https://liev2525.github.io/Elizondo_Portofolio_Page/)
+
 
 💼 Background:
 - Data Engineer II (Business Systems Analyst focus)
