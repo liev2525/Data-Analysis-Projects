@@ -31,9 +31,3 @@ This repository showcases projects focused on:
 - Final Results
 
 
-
-
-[Open Project PDF](https://github.com/liev2525/Data-Analysis-Projects/blob/main/Blue%20Modern%20Digital%20Marketing%20LinkedIn%20Carousel.pdf)
-
-
-
