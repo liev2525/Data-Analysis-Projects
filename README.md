@@ -43,13 +43,12 @@ This repository showcases projects focused on:
 
 ## PROJECT 4: [RETAIL ANALYTICS PROJECT](https://canva.link/j1hh6ejt0uegtzs)
 
-[Open Project PDF](https://github.com/liev2525/Data-Analysis-Projects/blob/main/Blue%20Modern%20Digital%20Marketing%20LinkedIn%20Carousel.pdf)
-
 <img width="1200" height="1500" alt="1" src="https://github.com/user-attachments/assets/0e00505d-9822-4e55-b889-51a3f0e07831" />
 <img width="1200" height="1500" alt="2" src="https://github.com/user-attachments/assets/f4dd4df5-9817-4d3c-bcc8-f2d48ba09061" />
 <img width="1200" height="1500" alt="3" src="https://github.com/user-attachments/assets/75920887-de53-4815-9825-6866cdbdbc5a" />
 
 
+[Open Project PDF](https://github.com/liev2525/Data-Analysis-Projects/blob/main/Blue%20Modern%20Digital%20Marketing%20LinkedIn%20Carousel.pdf)
 
 
 
