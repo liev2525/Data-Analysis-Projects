@@ -25,9 +25,13 @@ This repository showcases projects focused on:
 - Visual insights & key findings
 - Business recommendations
 
-## PROJECT 1: [HOTEL BOOKING ANALYSIS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/liev2525-DA-projects/MinorProjects/MPDataAnalysis/HotelBookingsAnalysis)
-- Brief overview: This pull request delivers a business-driven analytics solution by translating stakeholder requirements into a structured dashboard and data model. The implementation focuses on improving visibility into revenue performance, booking trends, and city-level insights using standardized and validated data.
-- Technology used: SQL, Snowflake
-- Final Results
+## PROJECT 1: [CAVE LLC SHIPPERS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
+- Brief overview: Conducted an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various materials
+- Technology used: MySQL, RStudio, Tableau
+- Final results: [Cave Shippers Analysis results](https://www.elizabethelizondo.net/portfolio-brief/cave-shippersllc)
 
+## PROJECT 2: [HOTEL BOOKINGS ANALYSIS]()
+- Brief overview: End-to-End Snowflake Hotel Booking Analytics Project Using Medallion Architecture  
+- Technology used: Excel, Snowflake, Snowsight, SQL
+- Final results: refer to the [PDF Documentation](https://github.com/user-attachments/files/27775953/HotelBookingAnalyticsSolution.pdf)
 
