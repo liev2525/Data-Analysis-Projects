@@ -8,3 +8,9 @@
 - Brief overview: Conducted an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various materials
 - Technology used: MySQL, RStudio, Tableau
 - Final results: [Cave Shippers Analysis results](https://www.elizabethelizondo.net/portfolio-brief/cave-shippersllc)
+
+## [HOTEL BOOKINGS ANALYSIS]()
+- Brief overview: End-to-End Snowflake Hotel Booking Analytics Project Using Medallion Architecture  
+- Technology used: Excel, Snowflake, Snowsight, SQL
+- Final results: refer to the [PDF Documentation](https://github.com/user-attachments/files/27775953/HotelBookingAnalyticsSolution.pdf)
+
