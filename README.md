@@ -28,7 +28,7 @@ This repository showcases projects focused on:
 ## PROJECT 1: [CAVE LLC SHIPPERS](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
 - Brief overview: Conducted an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various materials
 - Technology used: MySQL, RStudio, Tableau
-- Final results: [Cave Shippers Analysis results](https://www.elizabethelizondo.net/portfolio-brief/cave-shippersllc)
+- Final results: [View Full PDF Documentation](Supply Chain & Sales Analytics Case Study/Supply Chain & Sales Analytics Case Study.pdf)
 
 ## PROJECT 2: [HOTEL BOOKINGS ANALYSIS]()
 - Brief overview: End-to-End Snowflake Hotel Booking Analytics Project Using Medallion Architecture  
