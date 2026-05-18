@@ -41,7 +41,8 @@ This repository showcases projects focused on:
 - Brief overview: End-to-End Snowflake Hotel Booking Analytics Project Using Medallion Architecture  
 - Technology used: Excel, Snowflake, Snowsight, SQL
 ### Architecture
-<img width="599" height="299" alt="FlowDiagramDark" src="https://github.com/user-attachments/assets/50dce8aa-c860-47a7-a92d-5ffd4a2736b0" />
+<img width="599" height="299" alt="SnowflakeDataArchitecture" src="https://github.com/user-attachments/assets/0912bce0-f920-4580-8162-6ba07e42f200" />
+
 
 ### Dashboard Preview  
 <img width="599" height="399" alt="Dashboard" src="https://github.com/user-attachments/assets/12b4764a-3837-415f-ad3b-412bb7967d05" />
